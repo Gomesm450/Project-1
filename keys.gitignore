@@ -1,1 +1,6 @@
-keys
+Census
+	https://www.census.gov/data/developers/data-sets/popest-popproj.html
+		key: 4e87460f7ae830a55d51686ad04312169df6d47c
+		doc: https://www.census.gov/data/developers/guidance/api-user-guide.Query_Examples.html
+Google
+	key: AIzaSyAltS_u8OQsL3xAqZaHLTTiI8FfqBpwiTs
