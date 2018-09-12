@@ -1,0 +1,609 @@
+zip_code,distance,city,state
+10312,18.296,Staten Island,NY
+10308,17.006,Staten Island,NY
+11697,15.086,Breezy Point,NY
+7064,19.252,Port Reading,NJ
+10306,15.251,Staten Island,NY
+11224,13.021,Brooklyn,NY
+11694,14.963,Rockaway Park,NY
+10313,15.136,Staten Island,NY
+7001,19.559,Avenel,NJ
+7008,17.789,Carteret,NJ
+11235,12.72,Brooklyn,NY
+11509,18.285,Atlantic Beach,NY
+11690,15.286,Far Rockaway,NY
+11695,15.286,Far Rockaway,NY
+11693,15.254,Far Rockaway,NY
+11692,15.668,Arverne,NY
+10305,12.557,Staten Island,NY
+11223,11.677,Brooklyn,NY
+11214,11.526,Brooklyn,NY
+10314,14.838,Staten Island,NY
+11229,11.59,Brooklyn,NY
+11691,16.406,Far Rockaway,NY
+11559,18.037,Lawrence,NY
+10311,14.996,Staten Island,NY
+11234,11.735,Brooklyn,NY
+7065,18.881,Rahway,NJ
+11425,11.094,Jamaica,NY
+10304,12.148,Staten Island,NY
+11228,10.393,Brooklyn,NY
+11204,10.163,Brooklyn,NY
+7066,19.911,Clark,NJ
+11096,15.661,Inwood,NY
+11209,10.188,Brooklyn,NY
+11230,9.993,Brooklyn,NY
+7036,16.322,Linden,NJ
+11516,16.737,Cedarhurst,NY
+10301,11.086,Staten Island,NY
+11210,9.749,Brooklyn,NY
+10303,13.564,Staten Island,NY
+10302,12.225,Staten Island,NY
+11598,17.158,Woodmere,NY
+10310,11.413,Staten Island,NY
+11219,9.214,Brooklyn,NY
+11557,17.829,Hewlett,NY
+11518,18.976,East Rockaway,NY
+11236,9.839,Brooklyn,NY
+11202,9.035,Brooklyn,NY
+11241,9.035,Brooklyn,NY
+11242,9.035,Brooklyn,NY
+11243,9.035,Brooklyn,NY
+11245,9.035,Brooklyn,NY
+11247,9.035,Brooklyn,NY
+11249,9.035,Brooklyn,NY
+11251,9.035,Brooklyn,NY
+11252,9.035,Brooklyn,NY
+11256,9.035,Brooklyn,NY
+11220,8.753,Brooklyn,NY
+11218,8.471,Brooklyn,NY
+11226,8.402,Brooklyn,NY
+11430,13.363,Jamaica,NY
+11239,9.92,Brooklyn,NY
+11203,8.493,Brooklyn,NY
+11581,16.287,Valley Stream,NY
+7027,19.286,Garwood,NJ
+7206,12.969,Elizabethport,NJ
+7203,16.299,Roselle,NJ
+7202,14.361,Elizabeth,NJ
+7016,18.263,Cranford,NJ
+11563,18.047,Lynbrook,NY
+11414,10.571,Howard Beach,NY
+11232,7.524,Brooklyn,NY
+7207,12.896,Elizabeth,NJ
+11582,16.717,Valley Stream,NY
+11422,15.038,Rosedale,NY
+7002,9.621,Bayonne,NJ
+11215,7.126,Brooklyn,NY
+11212,8.095,Brooklyn,NY
+11225,7.312,Brooklyn,NY
+7204,16.208,Roselle Park,NJ
+11570,19.53,Rockville Centre,NY
+11208,9.071,Brooklyn,NY
+11536,16.427,Garden City,NY
+11207,8.171,Brooklyn,NY
+11213,7.072,Brooklyn,NY
+11413,13.921,Springfield Gardens,NY
+11420,10.931,South Ozone Park,NY
+7208,14.061,Elizabeth,NJ
+11580,16.181,Valley Stream,NY
+11565,17.681,Malverne,NY
+11436,11.769,Jamaica,NY
+11417,9.693,Ozone Park,NY
+11434,12.639,Jamaica,NY
+7033,16.95,Kenilworth,NJ
+11231,6.144,Brooklyn,NY
+11233,6.994,Brooklyn,NY
+11238,6.115,Brooklyn,NY
+11244,5.932,Brooklyn,NY
+11405,12.374,Jamaica,NY
+11431,12.374,Jamaica,NY
+11439,12.374,Jamaica,NY
+11499,12.374,Jamaica,NY
+11216,6.203,Brooklyn,NY
+11217,5.792,Brooklyn,NY
+11416,9.127,Ozone Park,NY
+11419,10.128,South Richmond Hill,NY
+10004,5.558,New York,NY
+7201,10.735,Elizabeth,NJ
+11248,5.24,Brooklyn,NY
+11254,5.24,Brooklyn,NY
+11240,5.252,Brooklyn,NY
+11255,5.252,Brooklyn,NY
+11221,6.018,Brooklyn,NY
+11552,18.229,West Hempstead,NY
+11201,4.986,Brooklyn,NY
+11421,8.352,Woodhaven,NY
+11411,14.045,Cambria Heights,NY
+11205,5.041,Brooklyn,NY
+7083,15.544,Union,NJ
+7205,13.551,Hillside,NJ
+7305,6.871,Jersey City,NJ
+7114,10.672,Newark,NJ
+7081,18.776,Springfield,NJ
+11412,12.823,Saint Albans,NY
+11433,11.493,Jamaica,NY
+11003,15.403,Elmont,NY
+11386,6.833,Ridgewood,NY
+11418,9.125,Richmond Hill,NY
+11010,16.959,Franklin Square,NY
+11385,6.827,Ridgewood,NY
+11435,10.316,Jamaica,NY
+11451,10.969,Jamaica,NY
+11550,19.677,Hempstead,NY
+11206,4.996,Brooklyn,NY
+11237,5.481,Brooklyn,NY
+10005,4.287,New York,NY
+11415,9.222,Kew Gardens,NY
+10271,4.164,New York,NY
+10280,4.211,New York,NY
+10038,3.99,New York,NY
+7112,12.276,Newark,NJ
+10006,4.115,New York,NY
+11429,13.581,Queens Village,NY
+7902,19.904,Summit,NJ
+7097,5.42,Jersey City,NJ
+7303,5.42,Jersey City,NJ
+7308,5.42,Jersey City,NJ
+7399,5.42,Jersey City,NJ
+7309,4.464,Jersey City,NJ
+10046,4.038,New York,NY
+10047,4.038,New York,NY
+10048,4.038,New York,NY
+10015,3.912,New York,NY
+10079,3.912,New York,NY
+10094,3.912,New York,NY
+10096,3.912,New York,NY
+10099,3.912,New York,NY
+10184,3.912,New York,NY
+10196,3.912,New York,NY
+10197,3.912,New York,NY
+10008,3.859,New York,NY
+10041,3.859,New York,NY
+10043,3.859,New York,NY
+10045,3.859,New York,NY
+10055,3.859,New York,NY
+10060,3.859,New York,NY
+10080,3.859,New York,NY
+10081,3.859,New York,NY
+10087,3.859,New York,NY
+10090,3.859,New York,NY
+10095,3.859,New York,NY
+10101,3.859,New York,NY
+10102,3.859,New York,NY
+10104,3.859,New York,NY
+10105,3.859,New York,NY
+10106,3.859,New York,NY
+10107,3.859,New York,NY
+10108,3.859,New York,NY
+10109,3.859,New York,NY
+10113,3.859,New York,NY
+10114,3.859,New York,NY
+10116,3.859,New York,NY
+10117,3.859,New York,NY
+10118,3.859,New York,NY
+10120,3.859,New York,NY
+10121,3.859,New York,NY
+10122,3.859,New York,NY
+10123,3.859,New York,NY
+10124,3.859,New York,NY
+10125,3.859,New York,NY
+10126,3.859,New York,NY
+10129,3.859,New York,NY
+10130,3.859,New York,NY
+10131,3.859,New York,NY
+10132,3.859,New York,NY
+10133,3.859,New York,NY
+10138,3.859,New York,NY
+10150,3.859,New York,NY
+10151,3.859,New York,NY
+10155,3.859,New York,NY
+10156,3.859,New York,NY
+10157,3.859,New York,NY
+10158,3.859,New York,NY
+10159,3.859,New York,NY
+10160,3.859,New York,NY
+10161,3.859,New York,NY
+10163,3.859,New York,NY
+10164,3.859,New York,NY
+10166,3.859,New York,NY
+10175,3.859,New York,NY
+10176,3.859,New York,NY
+10178,3.859,New York,NY
+10179,3.859,New York,NY
+10185,3.859,New York,NY
+10203,3.859,New York,NY
+10211,3.859,New York,NY
+10212,3.859,New York,NY
+10213,3.859,New York,NY
+10242,3.859,New York,NY
+10249,3.859,New York,NY
+10256,3.859,New York,NY
+10257,3.859,New York,NY
+10258,3.859,New York,NY
+10259,3.859,New York,NY
+10260,3.859,New York,NY
+10261,3.859,New York,NY
+10265,3.859,New York,NY
+10268,3.859,New York,NY
+10269,3.859,New York,NY
+10270,3.859,New York,NY
+10272,3.859,New York,NY
+10273,3.859,New York,NY
+10274,3.859,New York,NY
+10275,3.859,New York,NY
+10276,3.859,New York,NY
+10277,3.859,New York,NY
+10281,3.859,New York,NY
+10285,3.859,New York,NY
+10286,3.859,New York,NY
+10292,3.859,New York,NY
+10279,3.842,New York,NY
+11211,4.094,Brooklyn,NY
+10007,3.749,New York,NY
+11424,9.094,Jamaica,NY
+10278,3.61,New York,NY
+11432,10.749,Jamaica,NY
+11423,11.971,Hollis,NY
+10002,3.461,New York,NY
+7304,5.621,Jersey City,NJ
+11379,6.581,Middle Village,NY
+10282,3.687,New York,NY
+7088,16.004,Vauxhall,NJ
+7311,4.006,Jersey City,NJ
+7302,4.456,Jersey City,NJ
+7101,10.079,Newark,NJ
+7175,10.079,Newark,NJ
+7184,10.079,Newark,NJ
+7188,10.079,Newark,NJ
+7189,10.079,Newark,NJ
+7191,10.079,Newark,NJ
+7192,10.079,Newark,NJ
+7193,10.079,Newark,NJ
+7195,10.079,Newark,NJ
+7198,10.079,Newark,NJ
+7199,10.079,Newark,NJ
+7395,5.8,Jersey City,NJ
+11380,6.916,Elmhurst,NY
+11002,15.357,Floral Park,NY
+11531,18.45,Garden City,NY
+11535,18.45,Garden City,NY
+11599,18.45,Garden City,NY
+10013,3.293,New York,NY
+11375,8.003,Forest Hills,NY
+11428,13.176,Queens Village,NY
+7041,16.737,Millburn,NJ
+7108,11.542,Newark,NJ
+7105,8.451,Newark,NJ
+11001,15.075,Floral Park,NY
+7111,13.161,Irvington,NJ
+11378,4.945,Maspeth,NY
+10012,2.841,New York,NY
+10009,2.761,New York,NY
+11374,7.109,Rego Park,NY
+11530,18.522,Garden City,NY
+11222,3.345,Brooklyn,NY
+11366,10.903,Fresh Meadows,NY
+7182,9.882,Newark,NJ
+7194,9.882,Newark,NJ
+11041,16.265,New Hyde Park,NY
+11043,16.265,New Hyde Park,NY
+11044,16.265,New Hyde Park,NY
+11099,16.265,New Hyde Park,NY
+7310,3.59,Jersey City,NJ
+11367,8.752,Flushing,NY
+7040,14.953,Maplewood,NJ
+11427,12.884,Queens Village,NY
+10003,2.349,New York,NY
+10014,2.422,New York,NY
+7306,4.925,Jersey City,NJ
+7102,9.967,Newark,NJ
+11426,14.003,Bellerose,NY
+7103,11.076,Newark,NJ
+11373,5.995,Elmhurst,NY
+10010,1.864,New York,NY
+11365,10.237,Fresh Meadows,NY
+11120,3.49,Long Island City,NY
+7106,12.823,Newark,NJ
+10011,1.782,New York,NY
+7078,18.245,Short Hills,NJ
+7029,8.92,Harrison,NJ
+11104,3.802,Sunnyside,NY
+11377,4.527,Woodside,NY
+10016,1.504,New York,NY
+7030,2.737,Hoboken,NJ
+11364,11.93,Oakland Gardens,NY
+11040,16.136,New Hyde Park,NY
+11109,2.078,Long Island City,NY
+11004,14.488,Glen Oaks,NY
+11501,18.282,Mineola,NY
+11101,2.818,Long Island City,NY
+7079,14.412,South Orange,NJ
+11368,7.104,Corona,NY
+11514,19.642,Carle Place,NY
+7099,6.51,Kearny,NJ
+10072,1.103,New York,NY
+10098,1.103,New York,NY
+10119,1.114,New York,NY
+10001,1.166,New York,NY
+7307,3.801,Jersey City,NJ
+10199,1.12,New York,NY
+10168,1.131,New York,NY
+10174,1.176,New York,NY
+11355,8.753,Flushing,NY
+11372,5.515,Jackson Heights,NY
+10165,1.048,New York,NY
+7032,7.168,Kearny,NJ
+10017,1.214,New York,NY
+10170,1.094,New York,NY
+10173,0.91,New York,NY
+10169,0.976,New York,NY
+10110,0.829,New York,NY
+10167,1.015,New York,NY
+10177,0.953,New York,NY
+10172,0.983,New York,NY
+10018,0.784,New York,NY
+7018,12.103,East Orange,NJ
+10171,0.972,New York,NY
+11362,13.209,Little Neck,NY
+11005,14.287,Floral Park,NY
+10154,0.959,New York,NY
+10020,0.693,New York,NY
+10152,0.934,New York,NY
+11042,15.18,New Hyde Park,NY
+10022,1.135,New York,NY
+10111,0.689,New York,NY
+10112,0.602,New York,NY
+10036,0.48,New York,NY
+11596,18.056,Williston Park,NY
+7051,12.72,Orange,NJ
+7019,11.671,East Orange,NJ
+10149,0.561,New York,NY
+11358,9.992,Flushing,NY
+10103,0.617,New York,NY
+10044,1.968,New York,NY
+11106,2.919,Astoria,NY
+11103,3.874,Astoria,NY
+7107,10.436,Newark,NJ
+11369,5.999,East Elmhurst,NY
+10153,0.795,New York,NY
+11361,11.214,Bayside,NY
+10065,1.262,New York,NY
+11370,4.917,East Elmhurst,NY
+10019,0,New York,NY
+7087,2.371,Union City,NJ
+7104,9.476,Newark,NJ
+7086,1.745,Weehawken,NJ
+7050,13.013,Orange,NJ
+11354,8.367,Flushing,NY
+10021,1.517,New York,NY
+10162,1.964,New York,NY
+10082,0.485,New York,NY
+11352,7.711,Flushing,NY
+11381,7.711,Flushing,NY
+11390,7.711,Flushing,NY
+11507,17.543,Albertson,NY
+11020,14.247,Great Neck,NY
+7017,11.521,East Orange,NJ
+11363,12.6,Little Neck,NY
+11102,3.215,Astoria,NY
+10075,1.7,New York,NY
+11371,5.996,Flushing,NY
+10023,0.737,New York,NY
+10069,0.723,New York,NY
+10028,1.914,New York,NY
+11105,4.323,Astoria,NY
+7096,3.931,Secaucus,NJ
+11360,10.809,Bayside,NY
+11351,8.517,Flushing,NY
+10128,2.226,New York,NY
+7094,4.342,Secaucus,NJ
+11577,18.267,Roslyn Heights,NY
+11021,13.431,Great Neck,NY
+11356,7.728,College Point,NY
+11357,9.359,Whitestone,NY
+7052,14.605,West Orange,NJ
+7039,17.95,Livingston,NJ
+7031,7.42,North Arlington,NJ
+7093,1.992,West New York,NJ
+11359,11.145,Bayside,NY
+10029,2.876,New York,NY
+11030,15.733,Manhasset,NY
+7047,2.782,North Bergen,NJ
+10035,3.654,New York,NY
+7109,9.371,Belleville,NJ
+7071,6.959,Lyndhurst,NJ
+11576,17.914,Roslyn,NY
+10024,2.347,New York,NY
+10025,2.508,New York,NY
+11023,13.444,Great Neck,NY
+11022,13.664,Great Neck,NY
+11026,13.664,Great Neck,NY
+11027,13.664,Great Neck,NY
+11025,14.166,Great Neck,NY
+10026,3.1,New York,NY
+7028,11.675,Glen Ridge,NJ
+10454,4.593,Bronx,NY
+7003,10.881,Bloomfield,NJ
+10474,6.194,Bronx,NY
+10115,3.345,New York,NY
+10027,3.625,New York,NY
+7020,3.2,Edgewater,NJ
+11548,19.101,Greenvale,NY
+10037,4.173,New York,NY
+7042,12.578,Montclair,NJ
+10455,5.316,Bronx,NY
+11024,13.234,Great Neck,NY
+7073,6.231,East Rutherford,NJ
+10030,4.295,New York,NY
+10473,7.67,Bronx,NY
+11051,16.494,Port Washington,NY
+11052,16.494,Port Washington,NY
+11053,16.494,Port Washington,NY
+11054,16.494,Port Washington,NY
+11055,16.494,Port Washington,NY
+7070,7.257,Rutherford,NJ
+10451,4.971,Bronx,NY
+7110,9.617,Nutley,NJ
+7022,3.907,Fairview,NJ
+7068,17.339,Roseland,NJ
+7010,3.888,Cliffside Park,NJ
+10465,9.481,Bronx,NY
+10031,4.547,New York,NY
+10459,6.432,Bronx,NY
+7072,5.741,Carlstadt,NJ
+7021,15.705,Essex Fells,NJ
+7657,4.643,Ridgefield,NJ
+10472,7.582,Bronx,NY
+10456,6.057,Bronx,NY
+7007,15.454,Caldwell,NJ
+10039,5.225,New York,NY
+7014,8.985,Clifton,NJ
+11547,18.61,Glenwood Landing,NY
+7044,14.171,Verona,NJ
+10452,5.959,Bronx,NY
+7074,6.138,Moonachie,NJ
+10032,5.543,New York,NY
+11050,16.202,Port Washington,NY
+10499,7.998,Bronx,NY
+10460,7.697,Bronx,NY
+10462,8.512,Bronx,NY
+11579,18.745,Sea Cliff,NY
+7643,5.992,Little Ferry,NJ
+7043,12.412,Montclair,NJ
+7650,5.633,Palisades Park,NJ
+10457,7.27,Bronx,NY
+10461,9.519,Bronx,NY
+7012,10.697,Clifton,NJ
+7699,6.95,Teterboro,NJ
+7075,7.819,Wood Ridge,NJ
+10033,6.477,New York,NY
+7024,5.919,Fort Lee,NJ
+7006,16.548,Caldwell,NJ
+10453,7.178,Bronx,NY
+7608,7.139,Teterboro,NJ
+7057,8.671,Wallington,NJ
+7660,6.373,Ridgefield Park,NJ
+7055,9.624,Passaic,NJ
+7606,7.12,South Hackensack,NJ
+7009,14.185,Cedar Grove,NJ
+10040,7.044,New York,NY
+7015,10.713,Clifton,NJ
+10458,8.457,Bronx,NY
+7604,8.134,Hasbrouck Heights,NJ
+7605,6.742,Leonia,NJ
+10034,7.732,New York,NY
+10469,10.17,Bronx,NY
+10468,8.456,Bronx,NY
+7013,12.06,Clifton,NJ
+10464,12.31,Bronx,NY
+10467,9.596,Bronx,NY
+7058,19.956,Pine Brook,NJ
+7603,7.815,Bogota,NJ
+10475,11.4,Bronx,NY
+7644,9.203,Lodi,NJ
+7011,11.301,Clifton,NJ
+7026,10.097,Garfield,NJ
+7602,8.357,Hackensack,NJ
+10463,8.988,Bronx,NY
+7004,18.45,Fairfield,NJ
+7424,13.986,Little Falls,NJ
+7601,9.069,Hackensack,NJ
+10470,10.438,Bronx,NY
+7632,8.876,Englewood Cliffs,NJ
+7666,8.694,Teaneck,NJ
+10466,11.36,Bronx,NY
+7631,8.697,Englewood,NJ
+7503,12.602,Paterson,NJ
+10805,14.187,New Rochelle,NY
+10471,10.185,Bronx,NY
+7511,15.292,Totowa,NJ
+10557,12.746,Mount Vernon,NY
+10558,12.746,Mount Vernon,NY
+10803,13.229,Pelham,NY
+7607,10.273,Maywood,NJ
+7663,10.99,Saddle Brook,NJ
+7512,15.434,Totowa,NJ
+7407,11.821,Elmwood Park,NJ
+10550,12.493,Mount Vernon,NY
+7513,12.861,Paterson,NJ
+10553,13.121,Mount Vernon,NY
+7509,13.454,Paterson,NJ
+7510,13.454,Paterson,NJ
+7533,13.454,Paterson,NJ
+7543,13.454,Paterson,NJ
+7544,13.454,Paterson,NJ
+10551,13.255,Mount Vernon,NY
+7662,11.188,Rochelle Park,NJ
+7501,13.943,Paterson,NJ
+7504,12.968,Paterson,NJ
+7505,14.183,Paterson,NJ
+10801,14.888,New Rochelle,NY
+7670,10.707,Tenafly,NJ
+7502,15.109,Paterson,NJ
+10705,11.789,Yonkers,NY
+10704,12.462,Yonkers,NY
+7477,18.231,Wayne,NJ
+10802,15.567,New Rochelle,NY
+7621,10.826,Bergenfield,NJ
+10552,13.819,Mount Vernon,NY
+7522,14.883,Paterson,NJ
+7514,13.815,Paterson,NJ
+7661,11.495,River Edge,NJ
+7538,15.182,Haledon,NJ
+7524,14.489,Paterson,NJ
+7646,11.751,New Milford,NJ
+7410,13.571,Fair Lawn,NJ
+10538,16.934,Larchmont,NY
+10708,14.467,Bronxville,NY
+7626,12.112,Cresskill,NJ
+7474,17.866,Wayne,NJ
+7653,12.794,Paramus,NJ
+10702,13.748,Yonkers,NY
+7628,12.398,Dumont,NJ
+10701,13.599,Yonkers,NY
+7470,18.338,Wayne,NJ
+10804,16.278,New Rochelle,NY
+7652,13.268,Paramus,NJ
+7507,15.303,Hawthorne,NJ
+10543,18.402,Mamaroneck,NY
+7627,13.136,Demarest,NJ
+10709,16.044,Eastchester,NY
+7508,16.626,Haledon,NJ
+7649,13.398,Oradell,NJ
+7506,15.954,Hawthorne,NJ
+7452,15.202,Glen Rock,NJ
+10703,14.526,Yonkers,NY
+10707,15.962,Tuckahoe,NY
+7641,13.546,Haworth,NJ
+10710,15.74,Yonkers,NY
+7620,14.497,Alpine,NJ
+7624,14.376,Closter,NJ
+7630,14.576,Emerson,NJ
+10528,19.925,Harrison,NY
+7451,16.125,Ridgewood,NJ
+7450,16.298,Ridgewood,NJ
+7676,15.894,Township Of Washington,NJ
+10583,18.555,Scarsdale,NY
+10706,16.691,Hastings On Hudson,NY
+7640,15.609,Harrington Park,NJ
+7648,15.758,Norwood,NJ
+7432,17.814,Midland Park,NJ
+7481,18.702,Wyckoff,NJ
+7423,17.126,Ho Ho Kus,NJ
+7675,16.438,Westwood,NJ
+7647,16.782,Northvale,NJ
+7642,16.942,Hillsdale,NJ
+10522,18.076,Dobbs Ferry,NY
+10502,18.603,Ardsley,NY
+7463,18.59,Waldwick,NJ
+10964,17.712,Palisades,NY
+10976,18.027,Sparkill,NY
+7677,18.383,Woodcliff Lake,NJ
+10503,18.934,Ardsley On Hudson,NY
+10983,18.445,Tappan,NY
+7401,19.964,Allendale,NJ
+7656,18.919,Park Ridge,NJ
+10533,19.964,Irvington,NY
+10968,19.05,Piermont,NY
+10962,19.696,Orangeburg,NY
