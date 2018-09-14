@@ -1,609 +1,610 @@
-zip_code,distance,city,state
-10312,18.296,Staten Island,NY
-10308,17.006,Staten Island,NY
-11697,15.086,Breezy Point,NY
-7064,19.252,Port Reading,NJ
-10306,15.251,Staten Island,NY
-11224,13.021,Brooklyn,NY
-11694,14.963,Rockaway Park,NY
-10313,15.136,Staten Island,NY
-7001,19.559,Avenel,NJ
-7008,17.789,Carteret,NJ
-11235,12.72,Brooklyn,NY
-11509,18.285,Atlantic Beach,NY
-11690,15.286,Far Rockaway,NY
-11695,15.286,Far Rockaway,NY
-11693,15.254,Far Rockaway,NY
-11692,15.668,Arverne,NY
-10305,12.557,Staten Island,NY
-11223,11.677,Brooklyn,NY
-11214,11.526,Brooklyn,NY
-10314,14.838,Staten Island,NY
-11229,11.59,Brooklyn,NY
-11691,16.406,Far Rockaway,NY
-11559,18.037,Lawrence,NY
-10311,14.996,Staten Island,NY
-11234,11.735,Brooklyn,NY
-7065,18.881,Rahway,NJ
-11425,11.094,Jamaica,NY
-10304,12.148,Staten Island,NY
-11228,10.393,Brooklyn,NY
-11204,10.163,Brooklyn,NY
-7066,19.911,Clark,NJ
-11096,15.661,Inwood,NY
-11209,10.188,Brooklyn,NY
-11230,9.993,Brooklyn,NY
-7036,16.322,Linden,NJ
-11516,16.737,Cedarhurst,NY
-10301,11.086,Staten Island,NY
-11210,9.749,Brooklyn,NY
-10303,13.564,Staten Island,NY
-10302,12.225,Staten Island,NY
-11598,17.158,Woodmere,NY
-10310,11.413,Staten Island,NY
-11219,9.214,Brooklyn,NY
-11557,17.829,Hewlett,NY
-11518,18.976,East Rockaway,NY
-11236,9.839,Brooklyn,NY
-11202,9.035,Brooklyn,NY
-11241,9.035,Brooklyn,NY
-11242,9.035,Brooklyn,NY
-11243,9.035,Brooklyn,NY
-11245,9.035,Brooklyn,NY
-11247,9.035,Brooklyn,NY
-11249,9.035,Brooklyn,NY
-11251,9.035,Brooklyn,NY
-11252,9.035,Brooklyn,NY
-11256,9.035,Brooklyn,NY
-11220,8.753,Brooklyn,NY
-11218,8.471,Brooklyn,NY
-11226,8.402,Brooklyn,NY
-11430,13.363,Jamaica,NY
-11239,9.92,Brooklyn,NY
-11203,8.493,Brooklyn,NY
-11581,16.287,Valley Stream,NY
-7027,19.286,Garwood,NJ
-7206,12.969,Elizabethport,NJ
-7203,16.299,Roselle,NJ
-7202,14.361,Elizabeth,NJ
-7016,18.263,Cranford,NJ
-11563,18.047,Lynbrook,NY
-11414,10.571,Howard Beach,NY
-11232,7.524,Brooklyn,NY
-7207,12.896,Elizabeth,NJ
-11582,16.717,Valley Stream,NY
-11422,15.038,Rosedale,NY
-7002,9.621,Bayonne,NJ
-11215,7.126,Brooklyn,NY
-11212,8.095,Brooklyn,NY
-11225,7.312,Brooklyn,NY
-7204,16.208,Roselle Park,NJ
-11570,19.53,Rockville Centre,NY
-11208,9.071,Brooklyn,NY
-11536,16.427,Garden City,NY
-11207,8.171,Brooklyn,NY
-11213,7.072,Brooklyn,NY
-11413,13.921,Springfield Gardens,NY
-11420,10.931,South Ozone Park,NY
-7208,14.061,Elizabeth,NJ
-11580,16.181,Valley Stream,NY
-11565,17.681,Malverne,NY
-11436,11.769,Jamaica,NY
-11417,9.693,Ozone Park,NY
-11434,12.639,Jamaica,NY
-7033,16.95,Kenilworth,NJ
-11231,6.144,Brooklyn,NY
-11233,6.994,Brooklyn,NY
-11238,6.115,Brooklyn,NY
-11244,5.932,Brooklyn,NY
-11405,12.374,Jamaica,NY
-11431,12.374,Jamaica,NY
-11439,12.374,Jamaica,NY
-11499,12.374,Jamaica,NY
-11216,6.203,Brooklyn,NY
-11217,5.792,Brooklyn,NY
-11416,9.127,Ozone Park,NY
-11419,10.128,South Richmond Hill,NY
-10004,5.558,New York,NY
-7201,10.735,Elizabeth,NJ
-11248,5.24,Brooklyn,NY
-11254,5.24,Brooklyn,NY
-11240,5.252,Brooklyn,NY
-11255,5.252,Brooklyn,NY
-11221,6.018,Brooklyn,NY
-11552,18.229,West Hempstead,NY
-11201,4.986,Brooklyn,NY
-11421,8.352,Woodhaven,NY
-11411,14.045,Cambria Heights,NY
-11205,5.041,Brooklyn,NY
-7083,15.544,Union,NJ
-7205,13.551,Hillside,NJ
-7305,6.871,Jersey City,NJ
-7114,10.672,Newark,NJ
-7081,18.776,Springfield,NJ
-11412,12.823,Saint Albans,NY
-11433,11.493,Jamaica,NY
-11003,15.403,Elmont,NY
-11386,6.833,Ridgewood,NY
-11418,9.125,Richmond Hill,NY
-11010,16.959,Franklin Square,NY
-11385,6.827,Ridgewood,NY
-11435,10.316,Jamaica,NY
-11451,10.969,Jamaica,NY
-11550,19.677,Hempstead,NY
-11206,4.996,Brooklyn,NY
-11237,5.481,Brooklyn,NY
-10005,4.287,New York,NY
-11415,9.222,Kew Gardens,NY
-10271,4.164,New York,NY
-10280,4.211,New York,NY
-10038,3.99,New York,NY
-7112,12.276,Newark,NJ
-10006,4.115,New York,NY
-11429,13.581,Queens Village,NY
-7902,19.904,Summit,NJ
-7097,5.42,Jersey City,NJ
-7303,5.42,Jersey City,NJ
-7308,5.42,Jersey City,NJ
-7399,5.42,Jersey City,NJ
-7309,4.464,Jersey City,NJ
-10046,4.038,New York,NY
-10047,4.038,New York,NY
-10048,4.038,New York,NY
-10015,3.912,New York,NY
-10079,3.912,New York,NY
-10094,3.912,New York,NY
-10096,3.912,New York,NY
-10099,3.912,New York,NY
-10184,3.912,New York,NY
-10196,3.912,New York,NY
-10197,3.912,New York,NY
-10008,3.859,New York,NY
-10041,3.859,New York,NY
-10043,3.859,New York,NY
-10045,3.859,New York,NY
-10055,3.859,New York,NY
-10060,3.859,New York,NY
-10080,3.859,New York,NY
-10081,3.859,New York,NY
-10087,3.859,New York,NY
-10090,3.859,New York,NY
-10095,3.859,New York,NY
-10101,3.859,New York,NY
-10102,3.859,New York,NY
-10104,3.859,New York,NY
-10105,3.859,New York,NY
-10106,3.859,New York,NY
-10107,3.859,New York,NY
-10108,3.859,New York,NY
-10109,3.859,New York,NY
-10113,3.859,New York,NY
-10114,3.859,New York,NY
-10116,3.859,New York,NY
-10117,3.859,New York,NY
-10118,3.859,New York,NY
-10120,3.859,New York,NY
-10121,3.859,New York,NY
-10122,3.859,New York,NY
-10123,3.859,New York,NY
-10124,3.859,New York,NY
-10125,3.859,New York,NY
-10126,3.859,New York,NY
-10129,3.859,New York,NY
-10130,3.859,New York,NY
-10131,3.859,New York,NY
-10132,3.859,New York,NY
-10133,3.859,New York,NY
-10138,3.859,New York,NY
-10150,3.859,New York,NY
-10151,3.859,New York,NY
-10155,3.859,New York,NY
-10156,3.859,New York,NY
-10157,3.859,New York,NY
-10158,3.859,New York,NY
-10159,3.859,New York,NY
-10160,3.859,New York,NY
-10161,3.859,New York,NY
-10163,3.859,New York,NY
-10164,3.859,New York,NY
-10166,3.859,New York,NY
-10175,3.859,New York,NY
-10176,3.859,New York,NY
-10178,3.859,New York,NY
-10179,3.859,New York,NY
-10185,3.859,New York,NY
-10203,3.859,New York,NY
-10211,3.859,New York,NY
-10212,3.859,New York,NY
-10213,3.859,New York,NY
-10242,3.859,New York,NY
-10249,3.859,New York,NY
-10256,3.859,New York,NY
-10257,3.859,New York,NY
-10258,3.859,New York,NY
-10259,3.859,New York,NY
-10260,3.859,New York,NY
-10261,3.859,New York,NY
-10265,3.859,New York,NY
-10268,3.859,New York,NY
-10269,3.859,New York,NY
-10270,3.859,New York,NY
-10272,3.859,New York,NY
-10273,3.859,New York,NY
-10274,3.859,New York,NY
-10275,3.859,New York,NY
-10276,3.859,New York,NY
-10277,3.859,New York,NY
-10281,3.859,New York,NY
-10285,3.859,New York,NY
-10286,3.859,New York,NY
-10292,3.859,New York,NY
-10279,3.842,New York,NY
-11211,4.094,Brooklyn,NY
-10007,3.749,New York,NY
-11424,9.094,Jamaica,NY
-10278,3.61,New York,NY
-11432,10.749,Jamaica,NY
-11423,11.971,Hollis,NY
-10002,3.461,New York,NY
-7304,5.621,Jersey City,NJ
-11379,6.581,Middle Village,NY
-10282,3.687,New York,NY
-7088,16.004,Vauxhall,NJ
-7311,4.006,Jersey City,NJ
-7302,4.456,Jersey City,NJ
-7101,10.079,Newark,NJ
-7175,10.079,Newark,NJ
-7184,10.079,Newark,NJ
-7188,10.079,Newark,NJ
-7189,10.079,Newark,NJ
-7191,10.079,Newark,NJ
-7192,10.079,Newark,NJ
-7193,10.079,Newark,NJ
-7195,10.079,Newark,NJ
-7198,10.079,Newark,NJ
-7199,10.079,Newark,NJ
-7395,5.8,Jersey City,NJ
-11380,6.916,Elmhurst,NY
-11002,15.357,Floral Park,NY
-11531,18.45,Garden City,NY
-11535,18.45,Garden City,NY
-11599,18.45,Garden City,NY
-10013,3.293,New York,NY
-11375,8.003,Forest Hills,NY
-11428,13.176,Queens Village,NY
-7041,16.737,Millburn,NJ
-7108,11.542,Newark,NJ
-7105,8.451,Newark,NJ
-11001,15.075,Floral Park,NY
-7111,13.161,Irvington,NJ
-11378,4.945,Maspeth,NY
-10012,2.841,New York,NY
-10009,2.761,New York,NY
-11374,7.109,Rego Park,NY
-11530,18.522,Garden City,NY
-11222,3.345,Brooklyn,NY
-11366,10.903,Fresh Meadows,NY
-7182,9.882,Newark,NJ
-7194,9.882,Newark,NJ
-11041,16.265,New Hyde Park,NY
-11043,16.265,New Hyde Park,NY
-11044,16.265,New Hyde Park,NY
-11099,16.265,New Hyde Park,NY
-7310,3.59,Jersey City,NJ
-11367,8.752,Flushing,NY
-7040,14.953,Maplewood,NJ
-11427,12.884,Queens Village,NY
-10003,2.349,New York,NY
-10014,2.422,New York,NY
-7306,4.925,Jersey City,NJ
-7102,9.967,Newark,NJ
-11426,14.003,Bellerose,NY
-7103,11.076,Newark,NJ
-11373,5.995,Elmhurst,NY
-10010,1.864,New York,NY
-11365,10.237,Fresh Meadows,NY
-11120,3.49,Long Island City,NY
-7106,12.823,Newark,NJ
-10011,1.782,New York,NY
-7078,18.245,Short Hills,NJ
-7029,8.92,Harrison,NJ
-11104,3.802,Sunnyside,NY
-11377,4.527,Woodside,NY
-10016,1.504,New York,NY
-7030,2.737,Hoboken,NJ
-11364,11.93,Oakland Gardens,NY
-11040,16.136,New Hyde Park,NY
-11109,2.078,Long Island City,NY
-11004,14.488,Glen Oaks,NY
-11501,18.282,Mineola,NY
-11101,2.818,Long Island City,NY
-7079,14.412,South Orange,NJ
-11368,7.104,Corona,NY
-11514,19.642,Carle Place,NY
-7099,6.51,Kearny,NJ
-10072,1.103,New York,NY
-10098,1.103,New York,NY
-10119,1.114,New York,NY
-10001,1.166,New York,NY
-7307,3.801,Jersey City,NJ
-10199,1.12,New York,NY
-10168,1.131,New York,NY
-10174,1.176,New York,NY
-11355,8.753,Flushing,NY
-11372,5.515,Jackson Heights,NY
-10165,1.048,New York,NY
-7032,7.168,Kearny,NJ
-10017,1.214,New York,NY
-10170,1.094,New York,NY
-10173,0.91,New York,NY
-10169,0.976,New York,NY
-10110,0.829,New York,NY
-10167,1.015,New York,NY
-10177,0.953,New York,NY
-10172,0.983,New York,NY
-10018,0.784,New York,NY
-7018,12.103,East Orange,NJ
-10171,0.972,New York,NY
-11362,13.209,Little Neck,NY
-11005,14.287,Floral Park,NY
-10154,0.959,New York,NY
-10020,0.693,New York,NY
-10152,0.934,New York,NY
-11042,15.18,New Hyde Park,NY
-10022,1.135,New York,NY
-10111,0.689,New York,NY
-10112,0.602,New York,NY
-10036,0.48,New York,NY
-11596,18.056,Williston Park,NY
-7051,12.72,Orange,NJ
-7019,11.671,East Orange,NJ
-10149,0.561,New York,NY
-11358,9.992,Flushing,NY
-10103,0.617,New York,NY
-10044,1.968,New York,NY
-11106,2.919,Astoria,NY
-11103,3.874,Astoria,NY
-7107,10.436,Newark,NJ
-11369,5.999,East Elmhurst,NY
-10153,0.795,New York,NY
-11361,11.214,Bayside,NY
-10065,1.262,New York,NY
-11370,4.917,East Elmhurst,NY
-10019,0,New York,NY
-7087,2.371,Union City,NJ
-7104,9.476,Newark,NJ
-7086,1.745,Weehawken,NJ
-7050,13.013,Orange,NJ
-11354,8.367,Flushing,NY
-10021,1.517,New York,NY
-10162,1.964,New York,NY
-10082,0.485,New York,NY
-11352,7.711,Flushing,NY
-11381,7.711,Flushing,NY
-11390,7.711,Flushing,NY
-11507,17.543,Albertson,NY
-11020,14.247,Great Neck,NY
-7017,11.521,East Orange,NJ
-11363,12.6,Little Neck,NY
-11102,3.215,Astoria,NY
-10075,1.7,New York,NY
-11371,5.996,Flushing,NY
-10023,0.737,New York,NY
-10069,0.723,New York,NY
-10028,1.914,New York,NY
-11105,4.323,Astoria,NY
-7096,3.931,Secaucus,NJ
-11360,10.809,Bayside,NY
-11351,8.517,Flushing,NY
-10128,2.226,New York,NY
-7094,4.342,Secaucus,NJ
-11577,18.267,Roslyn Heights,NY
-11021,13.431,Great Neck,NY
-11356,7.728,College Point,NY
-11357,9.359,Whitestone,NY
-7052,14.605,West Orange,NJ
-7039,17.95,Livingston,NJ
-7031,7.42,North Arlington,NJ
-7093,1.992,West New York,NJ
-11359,11.145,Bayside,NY
-10029,2.876,New York,NY
-11030,15.733,Manhasset,NY
-7047,2.782,North Bergen,NJ
-10035,3.654,New York,NY
-7109,9.371,Belleville,NJ
-7071,6.959,Lyndhurst,NJ
-11576,17.914,Roslyn,NY
-10024,2.347,New York,NY
-10025,2.508,New York,NY
-11023,13.444,Great Neck,NY
-11022,13.664,Great Neck,NY
-11026,13.664,Great Neck,NY
-11027,13.664,Great Neck,NY
-11025,14.166,Great Neck,NY
-10026,3.1,New York,NY
-7028,11.675,Glen Ridge,NJ
-10454,4.593,Bronx,NY
-7003,10.881,Bloomfield,NJ
-10474,6.194,Bronx,NY
-10115,3.345,New York,NY
-10027,3.625,New York,NY
-7020,3.2,Edgewater,NJ
-11548,19.101,Greenvale,NY
-10037,4.173,New York,NY
-7042,12.578,Montclair,NJ
-10455,5.316,Bronx,NY
-11024,13.234,Great Neck,NY
-7073,6.231,East Rutherford,NJ
-10030,4.295,New York,NY
-10473,7.67,Bronx,NY
-11051,16.494,Port Washington,NY
-11052,16.494,Port Washington,NY
-11053,16.494,Port Washington,NY
-11054,16.494,Port Washington,NY
-11055,16.494,Port Washington,NY
-7070,7.257,Rutherford,NJ
-10451,4.971,Bronx,NY
-7110,9.617,Nutley,NJ
-7022,3.907,Fairview,NJ
-7068,17.339,Roseland,NJ
-7010,3.888,Cliffside Park,NJ
-10465,9.481,Bronx,NY
-10031,4.547,New York,NY
-10459,6.432,Bronx,NY
-7072,5.741,Carlstadt,NJ
-7021,15.705,Essex Fells,NJ
-7657,4.643,Ridgefield,NJ
-10472,7.582,Bronx,NY
-10456,6.057,Bronx,NY
-7007,15.454,Caldwell,NJ
-10039,5.225,New York,NY
-7014,8.985,Clifton,NJ
-11547,18.61,Glenwood Landing,NY
-7044,14.171,Verona,NJ
-10452,5.959,Bronx,NY
-7074,6.138,Moonachie,NJ
-10032,5.543,New York,NY
-11050,16.202,Port Washington,NY
-10499,7.998,Bronx,NY
-10460,7.697,Bronx,NY
-10462,8.512,Bronx,NY
-11579,18.745,Sea Cliff,NY
-7643,5.992,Little Ferry,NJ
-7043,12.412,Montclair,NJ
-7650,5.633,Palisades Park,NJ
-10457,7.27,Bronx,NY
-10461,9.519,Bronx,NY
-7012,10.697,Clifton,NJ
-7699,6.95,Teterboro,NJ
-7075,7.819,Wood Ridge,NJ
-10033,6.477,New York,NY
-7024,5.919,Fort Lee,NJ
-7006,16.548,Caldwell,NJ
-10453,7.178,Bronx,NY
-7608,7.139,Teterboro,NJ
-7057,8.671,Wallington,NJ
-7660,6.373,Ridgefield Park,NJ
-7055,9.624,Passaic,NJ
-7606,7.12,South Hackensack,NJ
-7009,14.185,Cedar Grove,NJ
-10040,7.044,New York,NY
-7015,10.713,Clifton,NJ
-10458,8.457,Bronx,NY
-7604,8.134,Hasbrouck Heights,NJ
-7605,6.742,Leonia,NJ
-10034,7.732,New York,NY
-10469,10.17,Bronx,NY
-10468,8.456,Bronx,NY
-7013,12.06,Clifton,NJ
-10464,12.31,Bronx,NY
-10467,9.596,Bronx,NY
-7058,19.956,Pine Brook,NJ
-7603,7.815,Bogota,NJ
-10475,11.4,Bronx,NY
-7644,9.203,Lodi,NJ
-7011,11.301,Clifton,NJ
-7026,10.097,Garfield,NJ
-7602,8.357,Hackensack,NJ
-10463,8.988,Bronx,NY
-7004,18.45,Fairfield,NJ
-7424,13.986,Little Falls,NJ
-7601,9.069,Hackensack,NJ
-10470,10.438,Bronx,NY
-7632,8.876,Englewood Cliffs,NJ
-7666,8.694,Teaneck,NJ
-10466,11.36,Bronx,NY
-7631,8.697,Englewood,NJ
-7503,12.602,Paterson,NJ
-10805,14.187,New Rochelle,NY
-10471,10.185,Bronx,NY
-7511,15.292,Totowa,NJ
-10557,12.746,Mount Vernon,NY
-10558,12.746,Mount Vernon,NY
-10803,13.229,Pelham,NY
-7607,10.273,Maywood,NJ
-7663,10.99,Saddle Brook,NJ
-7512,15.434,Totowa,NJ
-7407,11.821,Elmwood Park,NJ
-10550,12.493,Mount Vernon,NY
-7513,12.861,Paterson,NJ
-10553,13.121,Mount Vernon,NY
-7509,13.454,Paterson,NJ
-7510,13.454,Paterson,NJ
-7533,13.454,Paterson,NJ
-7543,13.454,Paterson,NJ
-7544,13.454,Paterson,NJ
-10551,13.255,Mount Vernon,NY
-7662,11.188,Rochelle Park,NJ
-7501,13.943,Paterson,NJ
-7504,12.968,Paterson,NJ
-7505,14.183,Paterson,NJ
-10801,14.888,New Rochelle,NY
-7670,10.707,Tenafly,NJ
-7502,15.109,Paterson,NJ
-10705,11.789,Yonkers,NY
-10704,12.462,Yonkers,NY
-7477,18.231,Wayne,NJ
-10802,15.567,New Rochelle,NY
-7621,10.826,Bergenfield,NJ
-10552,13.819,Mount Vernon,NY
-7522,14.883,Paterson,NJ
-7514,13.815,Paterson,NJ
-7661,11.495,River Edge,NJ
-7538,15.182,Haledon,NJ
-7524,14.489,Paterson,NJ
-7646,11.751,New Milford,NJ
-7410,13.571,Fair Lawn,NJ
-10538,16.934,Larchmont,NY
-10708,14.467,Bronxville,NY
-7626,12.112,Cresskill,NJ
-7474,17.866,Wayne,NJ
-7653,12.794,Paramus,NJ
-10702,13.748,Yonkers,NY
-7628,12.398,Dumont,NJ
-10701,13.599,Yonkers,NY
-7470,18.338,Wayne,NJ
-10804,16.278,New Rochelle,NY
-7652,13.268,Paramus,NJ
-7507,15.303,Hawthorne,NJ
-10543,18.402,Mamaroneck,NY
-7627,13.136,Demarest,NJ
-10709,16.044,Eastchester,NY
-7508,16.626,Haledon,NJ
-7649,13.398,Oradell,NJ
-7506,15.954,Hawthorne,NJ
-7452,15.202,Glen Rock,NJ
-10703,14.526,Yonkers,NY
-10707,15.962,Tuckahoe,NY
-7641,13.546,Haworth,NJ
-10710,15.74,Yonkers,NY
-7620,14.497,Alpine,NJ
-7624,14.376,Closter,NJ
-7630,14.576,Emerson,NJ
-10528,19.925,Harrison,NY
-7451,16.125,Ridgewood,NJ
-7450,16.298,Ridgewood,NJ
-7676,15.894,Township Of Washington,NJ
-10583,18.555,Scarsdale,NY
-10706,16.691,Hastings On Hudson,NY
-7640,15.609,Harrington Park,NJ
-7648,15.758,Norwood,NJ
-7432,17.814,Midland Park,NJ
-7481,18.702,Wyckoff,NJ
-7423,17.126,Ho Ho Kus,NJ
-7675,16.438,Westwood,NJ
-7647,16.782,Northvale,NJ
-7642,16.942,Hillsdale,NJ
-10522,18.076,Dobbs Ferry,NY
-10502,18.603,Ardsley,NY
-7463,18.59,Waldwick,NJ
-10964,17.712,Palisades,NY
-10976,18.027,Sparkill,NY
-7677,18.383,Woodcliff Lake,NJ
-10503,18.934,Ardsley On Hudson,NY
-10983,18.445,Tappan,NY
-7401,19.964,Allendale,NJ
-7656,18.919,Park Ridge,NJ
-10533,19.964,Irvington,NY
-10968,19.05,Piermont,NY
-10962,19.696,Orangeburg,NY
+,zip_code,distance,city,state
+372,10019,0.0,"""New York""","""NY"""
+356,10036,0.48,"""New York""","""NY"""
+380,10082,0.485,"""New York""","""NY"""
+360,10149,0.561,"""New York""","""NY"""
+355,10112,0.602,"""New York""","""NY"""
+362,10103,0.617,"""New York""","""NY"""
+354,10111,0.6890000000000001,"""New York""","""NY"""
+350,10020,0.693,"""New York""","""NY"""
+392,10069,0.723,"""New York""","""NY"""
+391,10023,0.737,"""New York""","""NY"""
+344,10018,0.784,"""New York""","""NY"""
+368,10153,0.795,"""New York""","""NY"""
+340,10110,0.8290000000000001,"""New York""","""NY"""
+338,10173,0.91,"""New York""","""NY"""
+351,10152,0.934,"""New York""","""NY"""
+342,10177,0.953,"""New York""","""NY"""
+349,10154,0.9590000000000001,"""New York""","""NY"""
+346,10171,0.972,"""New York""","""NY"""
+339,10169,0.976,"""New York""","""NY"""
+343,10172,0.983,"""New York""","""NY"""
+341,10167,1.015,"""New York""","""NY"""
+334,10165,1.048,"""New York""","""NY"""
+337,10170,1.094,"""New York""","""NY"""
+324,10072,1.103,"""New York""","""NY"""
+325,10098,1.103,"""New York""","""NY"""
+326,10119,1.114,"""New York""","""NY"""
+329,10199,1.12,"""New York""","""NY"""
+330,10168,1.131,"""New York""","""NY"""
+353,10022,1.135,"""New York""","""NY"""
+327,10001,1.166,"""New York""","""NY"""
+331,10174,1.176,"""New York""","""NY"""
+336,10017,1.214,"""New York""","""NY"""
+370,10065,1.262,"""New York""","""NY"""
+312,10016,1.504,"""New York""","""NY"""
+378,10021,1.517,"""New York""","""NY"""
+389,10075,1.7,"""New York""","""NY"""
+375,07086,1.745,"""Weehawken""","""NJ"""
+307,10011,1.7819999999999998,"""New York""","""NY"""
+303,10010,1.864,"""New York""","""NY"""
+393,10028,1.9140000000000001,"""New York""","""NY"""
+379,10162,1.964,"""New York""","""NY"""
+363,10044,1.9680000000000002,"""New York""","""NY"""
+407,07093,1.992,"""West New York""","""NJ"""
+316,11109,2.0780000000000003,"""Long Island City""","""NY"""
+398,10128,2.226,"""New York""","""NY"""
+416,10024,2.347,"""New York""","""NY"""
+296,10003,2.349,"""New York""","""NY"""
+373,07087,2.371,"""Union City""","""NJ"""
+297,10014,2.4219999999999997,"""New York""","""NY"""
+417,10025,2.508,"""New York""","""NY"""
+313,07030,2.737,"""Hoboken""","""NJ"""
+281,10009,2.761,"""New York""","""NY"""
+411,07047,2.782,"""North Bergen""","""NJ"""
+319,11101,2.818,"""Long Island City""","""NY"""
+280,10012,2.841,"""New York""","""NY"""
+409,10029,2.8760000000000003,"""New York""","""NY"""
+364,11106,2.9189999999999996,"""Astoria""","""NY"""
+423,10026,3.1,"""New York""","""NY"""
+430,07020,3.2,"""Edgewater""","""NJ"""
+388,11102,3.215,"""Astoria""","""NY"""
+271,10013,3.293,"""New York""","""NY"""
+284,11222,3.345,"""Brooklyn""","""NY"""
+428,10115,3.345,"""New York""","""NY"""
+247,10002,3.4610000000000003,"""New York""","""NY"""
+305,11120,3.49,"""Long Island City""","""NY"""
+292,07310,3.59,"""Jersey City""","""NJ"""
+244,10278,3.61,"""New York""","""NY"""
+429,10027,3.625,"""New York""","""NY"""
+412,10035,3.654,"""New York""","""NY"""
+250,10282,3.687,"""New York""","""NY"""
+242,10007,3.7489999999999997,"""New York""","""NY"""
+328,07307,3.801,"""Jersey City""","""NJ"""
+310,11104,3.802,"""Sunnyside""","""NY"""
+240,10279,3.842,"""New York""","""NY"""
+186,10122,3.859,"""New York""","""NY"""
+187,10123,3.859,"""New York""","""NY"""
+188,10124,3.859,"""New York""","""NY"""
+190,10126,3.859,"""New York""","""NY"""
+195,10133,3.859,"""New York""","""NY"""
+191,10129,3.859,"""New York""","""NY"""
+192,10130,3.859,"""New York""","""NY"""
+193,10131,3.859,"""New York""","""NY"""
+194,10132,3.859,"""New York""","""NY"""
+189,10125,3.859,"""New York""","""NY"""
+185,10121,3.859,"""New York""","""NY"""
+167,10081,3.859,"""New York""","""NY"""
+184,10120,3.859,"""New York""","""NY"""
+168,10087,3.859,"""New York""","""NY"""
+169,10090,3.859,"""New York""","""NY"""
+170,10095,3.859,"""New York""","""NY"""
+165,10060,3.859,"""New York""","""NY"""
+171,10101,3.859,"""New York""","""NY"""
+164,10055,3.859,"""New York""","""NY"""
+163,10045,3.859,"""New York""","""NY"""
+173,10104,3.859,"""New York""","""NY"""
+174,10105,3.859,"""New York""","""NY"""
+175,10106,3.859,"""New York""","""NY"""
+176,10107,3.859,"""New York""","""NY"""
+177,10108,3.859,"""New York""","""NY"""
+178,10109,3.859,"""New York""","""NY"""
+162,10043,3.859,"""New York""","""NY"""
+179,10113,3.859,"""New York""","""NY"""
+180,10114,3.859,"""New York""","""NY"""
+181,10116,3.859,"""New York""","""NY"""
+182,10117,3.859,"""New York""","""NY"""
+183,10118,3.859,"""New York""","""NY"""
+166,10080,3.859,"""New York""","""NY"""
+196,10138,3.859,"""New York""","""NY"""
+222,10258,3.859,"""New York""","""NY"""
+198,10151,3.859,"""New York""","""NY"""
+161,10041,3.859,"""New York""","""NY"""
+223,10259,3.859,"""New York""","""NY"""
+224,10260,3.859,"""New York""","""NY"""
+225,10261,3.859,"""New York""","""NY"""
+226,10265,3.859,"""New York""","""NY"""
+227,10268,3.859,"""New York""","""NY"""
+228,10269,3.859,"""New York""","""NY"""
+229,10270,3.859,"""New York""","""NY"""
+221,10257,3.859,"""New York""","""NY"""
+230,10272,3.859,"""New York""","""NY"""
+232,10274,3.859,"""New York""","""NY"""
+233,10275,3.859,"""New York""","""NY"""
+234,10276,3.859,"""New York""","""NY"""
+235,10277,3.859,"""New York""","""NY"""
+236,10281,3.859,"""New York""","""NY"""
+237,10285,3.859,"""New York""","""NY"""
+238,10286,3.859,"""New York""","""NY"""
+239,10292,3.859,"""New York""","""NY"""
+231,10273,3.859,"""New York""","""NY"""
+220,10256,3.859,"""New York""","""NY"""
+219,10249,3.859,"""New York""","""NY"""
+218,10242,3.859,"""New York""","""NY"""
+199,10155,3.859,"""New York""","""NY"""
+200,10156,3.859,"""New York""","""NY"""
+201,10157,3.859,"""New York""","""NY"""
+202,10158,3.859,"""New York""","""NY"""
+203,10159,3.859,"""New York""","""NY"""
+204,10160,3.859,"""New York""","""NY"""
+205,10161,3.859,"""New York""","""NY"""
+206,10163,3.859,"""New York""","""NY"""
+207,10164,3.859,"""New York""","""NY"""
+208,10166,3.859,"""New York""","""NY"""
+209,10175,3.859,"""New York""","""NY"""
+210,10176,3.859,"""New York""","""NY"""
+211,10178,3.859,"""New York""","""NY"""
+212,10179,3.859,"""New York""","""NY"""
+213,10185,3.859,"""New York""","""NY"""
+214,10203,3.859,"""New York""","""NY"""
+215,10211,3.859,"""New York""","""NY"""
+216,10212,3.859,"""New York""","""NY"""
+217,10213,3.859,"""New York""","""NY"""
+197,10150,3.859,"""New York""","""NY"""
+160,10008,3.859,"""New York""","""NY"""
+172,10102,3.859,"""New York""","""NY"""
+365,11103,3.8739999999999997,"""Astoria""","""NY"""
+449,07010,3.888,"""Cliffside Park""","""NJ"""
+447,07022,3.907,"""Fairview""","""NJ"""
+155,10096,3.912,"""New York""","""NY"""
+152,10015,3.912,"""New York""","""NY"""
+154,10094,3.912,"""New York""","""NY"""
+159,10197,3.912,"""New York""","""NY"""
+156,10099,3.912,"""New York""","""NY"""
+153,10079,3.912,"""New York""","""NY"""
+157,10184,3.912,"""New York""","""NY"""
+158,10196,3.912,"""New York""","""NY"""
+395,07096,3.931,"""Secaucus""","""NJ"""
+139,10038,3.99,"""New York""","""NY"""
+252,07311,4.006,"""Jersey City""","""NJ"""
+149,10046,4.038,"""New York""","""NY"""
+150,10047,4.038,"""New York""","""NY"""
+151,10048,4.038,"""New York""","""NY"""
+241,11211,4.093999999999999,"""Brooklyn""","""NY"""
+141,10006,4.115,"""New York""","""NY"""
+137,10271,4.164,"""New York""","""NY"""
+432,10037,4.173,"""New York""","""NY"""
+138,10280,4.211,"""New York""","""NY"""
+135,10005,4.287,"""New York""","""NY"""
+437,10030,4.295,"""New York""","""NY"""
+394,11105,4.323,"""Astoria""","""NY"""
+399,07094,4.342,"""Secaucus""","""NJ"""
+253,07302,4.456,"""Jersey City""","""NJ"""
+148,07309,4.4639999999999995,"""Jersey City""","""NJ"""
+311,11377,4.527,"""Woodside""","""NY"""
+451,10031,4.547,"""New York""","""NY"""
+425,10454,4.593,"""Bronx""","""NY"""
+455,07657,4.643,"""Ridgefield""","""NJ"""
+371,11370,4.917,"""East Elmhurst""","""NY"""
+298,07306,4.925,"""Jersey City""","""NJ"""
+279,11378,4.945,"""Maspeth""","""NY"""
+445,10451,4.971,"""Bronx""","""NY"""
+114,11201,4.986000000000001,"""Brooklyn""","""NY"""
+133,11206,4.996,"""Brooklyn""","""NY"""
+117,11205,5.041,"""Brooklyn""","""NY"""
+459,10039,5.225,"""New York""","""NY"""
+109,11254,5.24,"""Brooklyn""","""NY"""
+108,11248,5.24,"""Brooklyn""","""NY"""
+110,11240,5.252000000000001,"""Brooklyn""","""NY"""
+111,11255,5.252000000000001,"""Brooklyn""","""NY"""
+434,10455,5.316,"""Bronx""","""NY"""
+146,07308,5.42,"""Jersey City""","""NJ"""
+144,07097,5.42,"""Jersey City""","""NJ"""
+145,07303,5.42,"""Jersey City""","""NJ"""
+147,07399,5.42,"""Jersey City""","""NJ"""
+134,11237,5.481,"""Brooklyn""","""NY"""
+333,11372,5.515,"""Jackson Heights""","""NY"""
+465,10032,5.542999999999999,"""New York""","""NY"""
+106,10004,5.558,"""New York""","""NY"""
+248,07304,5.621,"""Jersey City""","""NJ"""
+473,07650,5.632999999999999,"""Palisades Park""","""NJ"""
+453,07072,5.7410000000000005,"""Carlstadt""","""NJ"""
+103,11217,5.792000000000001,"""Brooklyn""","""NY"""
+265,07395,5.8,"""Jersey City""","""NJ"""
+480,07024,5.919,"""Fort Lee""","""NJ"""
+97,11244,5.932,"""Brooklyn""","""NY"""
+463,10452,5.959,"""Bronx""","""NY"""
+471,07643,5.992000000000001,"""Little Ferry""","""NJ"""
+302,11373,5.995,"""Elmhurst""","""NY"""
+390,11371,5.996,"""Flushing""","""NY"""
+367,11369,5.999,"""East Elmhurst""","""NY"""
+112,11221,6.018,"""Brooklyn""","""NY"""
+457,10456,6.057,"""Bronx""","""NY"""
+96,11238,6.115,"""Brooklyn""","""NY"""
+464,07074,6.138,"""Moonachie""","""NJ"""
+94,11231,6.144,"""Brooklyn""","""NY"""
+427,10474,6.194,"""Bronx""","""NY"""
+102,11216,6.202999999999999,"""Brooklyn""","""NY"""
+436,07073,6.231,"""East Rutherford""","""NJ"""
+485,07660,6.372999999999999,"""Ridgefield Park""","""NJ"""
+452,10459,6.432,"""Bronx""","""NY"""
+479,10033,6.477,"""New York""","""NY"""
+323,07099,6.51,"""Kearny""","""NJ"""
+249,11379,6.581,"""Middle Village""","""NY"""
+493,07605,6.742000000000001,"""Leonia""","""NJ"""
+129,11385,6.827000000000001,"""Ridgewood""","""NY"""
+126,11386,6.832999999999999,"""Ridgewood""","""NY"""
+120,07305,6.871,"""Jersey City""","""NJ"""
+266,11380,6.916,"""Elmhurst""","""NY"""
+477,07699,6.95,"""Teterboro""","""NJ"""
+414,07071,6.959,"""Lyndhurst""","""NJ"""
+95,11233,6.994,"""Brooklyn""","""NY"""
+489,10040,7.044,"""New York""","""NY"""
+84,11213,7.072,"""Brooklyn""","""NY"""
+321,11368,7.104,"""Corona""","""NY"""
+282,11374,7.109,"""Rego Park""","""NY"""
+487,07606,7.12,"""South Hackensack""","""NJ"""
+76,11215,7.126,"""Brooklyn""","""NY"""
+483,07608,7.138999999999999,"""Teterboro""","""NJ"""
+335,07032,7.167999999999999,"""Kearny""","""NJ"""
+482,10453,7.178,"""Bronx""","""NY"""
+444,07070,7.257000000000001,"""Rutherford""","""NJ"""
+474,10457,7.27,"""Bronx""","""NY"""
+78,11225,7.312,"""Brooklyn""","""NY"""
+406,07031,7.42,"""North Arlington""","""NJ"""
+71,11232,7.524,"""Brooklyn""","""NY"""
+456,10472,7.582000000000001,"""Bronx""","""NY"""
+438,10473,7.67,"""Bronx""","""NY"""
+468,10460,7.697,"""Bronx""","""NY"""
+381,11352,7.711,"""Flushing""","""NY"""
+383,11390,7.711,"""Flushing""","""NY"""
+382,11381,7.711,"""Flushing""","""NY"""
+402,11356,7.728,"""College Point""","""NY"""
+494,10034,7.732,"""New York""","""NY"""
+501,07603,7.815,"""Bogota""","""NJ"""
+478,07075,7.819,"""Wood Ridge""","""NJ"""
+467,10499,7.997999999999999,"""Bronx""","""NY"""
+272,11375,8.003,"""Forest Hills""","""NY"""
+77,11212,8.095,"""Brooklyn""","""NY"""
+492,07604,8.134,"""Hasbrouck Heights""","""NJ"""
+83,11207,8.171,"""Brooklyn""","""NY"""
+115,11421,8.352,"""Woodhaven""","""NY"""
+506,07602,8.357000000000001,"""Hackensack""","""NJ"""
+377,11354,8.367,"""Flushing""","""NY"""
+59,11226,8.402000000000001,"""Brooklyn""","""NY"""
+276,07105,8.451,"""Newark""","""NJ"""
+496,10468,8.456,"""Bronx""","""NY"""
+491,10458,8.457,"""Bronx""","""NY"""
+58,11218,8.471,"""Brooklyn""","""NY"""
+62,11203,8.493,"""Brooklyn""","""NY"""
+469,10462,8.512,"""Bronx""","""NY"""
+397,11351,8.517000000000001,"""Flushing""","""NY"""
+484,07057,8.671,"""Wallington""","""NJ"""
+513,07666,8.693999999999999,"""Teaneck""","""NJ"""
+515,07631,8.697000000000001,"""Englewood""","""NJ"""
+293,11367,8.752,"""Flushing""","""NY"""
+332,11355,8.753,"""Flushing""","""NY"""
+57,11220,8.753,"""Brooklyn""","""NY"""
+512,07632,8.876,"""Englewood Cliffs""","""NJ"""
+309,07029,8.92,"""Harrison""","""NJ"""
+460,07014,8.985,"""Clifton""","""NJ"""
+507,10463,8.988,"""Bronx""","""NY"""
+47,11202,9.035,"""Brooklyn""","""NY"""
+55,11252,9.035,"""Brooklyn""","""NY"""
+48,11241,9.035,"""Brooklyn""","""NY"""
+49,11242,9.035,"""Brooklyn""","""NY"""
+50,11243,9.035,"""Brooklyn""","""NY"""
+51,11245,9.035,"""Brooklyn""","""NY"""
+52,11247,9.035,"""Brooklyn""","""NY"""
+54,11251,9.035,"""Brooklyn""","""NY"""
+53,11249,9.035,"""Brooklyn""","""NY"""
+56,11256,9.035,"""Brooklyn""","""NY"""
+510,07601,9.068999999999999,"""Hackensack""","""NJ"""
+81,11208,9.071,"""Brooklyn""","""NY"""
+243,11424,9.094,"""Jamaica""","""NY"""
+127,11418,9.125,"""Richmond Hill""","""NY"""
+104,11416,9.127,"""Ozone Park""","""NY"""
+503,07644,9.203,"""Lodi""","""NJ"""
+43,11219,9.214,"""Brooklyn""","""NY"""
+136,11415,9.222000000000001,"""Kew Gardens""","""NY"""
+403,11357,9.359,"""Whitestone""","""NY"""
+413,07109,9.371,"""Belleville""","""NJ"""
+374,07104,9.476,"""Newark""","""NJ"""
+450,10465,9.481,"""Bronx""","""NY"""
+475,10461,9.519,"""Bronx""","""NY"""
+499,10467,9.596,"""Bronx""","""NY"""
+446,07110,9.617,"""Nutley""","""NJ"""
+75,07002,9.621,"""Bayonne""","""NJ"""
+486,07055,9.624,"""Passaic""","""NJ"""
+91,11417,9.693,"""Ozone Park""","""NY"""
+38,11210,9.749,"""Brooklyn""","""NY"""
+46,11236,9.839,"""Brooklyn""","""NY"""
+286,07182,9.882,"""Newark""","""NJ"""
+287,07194,9.882,"""Newark""","""NJ"""
+61,11239,9.92,"""Brooklyn""","""NY"""
+299,07102,9.967,"""Newark""","""NJ"""
+361,11358,9.992,"""Flushing""","""NY"""
+34,11230,9.993,"""Brooklyn""","""NY"""
+254,07101,10.079,"""Newark""","""NJ"""
+255,07175,10.079,"""Newark""","""NJ"""
+256,07184,10.079,"""Newark""","""NJ"""
+257,07188,10.079,"""Newark""","""NJ"""
+258,07189,10.079,"""Newark""","""NJ"""
+262,07195,10.079,"""Newark""","""NJ"""
+259,07191,10.079,"""Newark""","""NJ"""
+260,07192,10.079,"""Newark""","""NJ"""
+261,07193,10.079,"""Newark""","""NJ"""
+263,07198,10.079,"""Newark""","""NJ"""
+264,07199,10.079,"""Newark""","""NJ"""
+505,07026,10.097000000000001,"""Garfield""","""NJ"""
+105,11419,10.128,"""South Richmond Hill""","""NY"""
+30,11204,10.163,"""Brooklyn""","""NY"""
+495,10469,10.17,"""Bronx""","""NY"""
+518,10471,10.185,"""Bronx""","""NY"""
+33,11209,10.187999999999999,"""Brooklyn""","""NY"""
+304,11365,10.237,"""Fresh Meadows""","""NY"""
+523,07607,10.273,"""Maywood""","""NJ"""
+130,11435,10.315999999999999,"""Jamaica""","""NY"""
+29,11228,10.392999999999999,"""Brooklyn""","""NY"""
+366,07107,10.436,"""Newark""","""NJ"""
+511,10470,10.437999999999999,"""Bronx""","""NY"""
+70,11414,10.571,"""Howard Beach""","""NY"""
+121,07114,10.672,"""Newark""","""NJ"""
+476,07012,10.697000000000001,"""Clifton""","""NJ"""
+541,07670,10.707,"""Tenafly""","""NJ"""
+490,07015,10.713,"""Clifton""","""NJ"""
+107,07201,10.735,"""Elizabeth""","""NJ"""
+245,11432,10.749,"""Jamaica""","""NY"""
+396,11360,10.809000000000001,"""Bayside""","""NY"""
+547,07621,10.825999999999999,"""Bergenfield""","""NJ"""
+426,07003,10.880999999999998,"""Bloomfield""","""NJ"""
+285,11366,10.902999999999999,"""Fresh Meadows""","""NY"""
+86,11420,10.931,"""South Ozone Park""","""NY"""
+131,11451,10.969000000000001,"""Jamaica""","""NY"""
+524,07663,10.99,"""Saddle Brook""","""NJ"""
+301,07103,11.075999999999999,"""Newark""","""NJ"""
+37,10301,11.085999999999999,"""Staten Island""","""NY"""
+27,11425,11.094000000000001,"""Jamaica""","""NY"""
+408,11359,11.145,"""Bayside""","""NY"""
+536,07662,11.187999999999999,"""Rochelle Park""","""NJ"""
+369,11361,11.214,"""Bayside""","""NY"""
+504,07011,11.300999999999998,"""Clifton""","""NJ"""
+514,10466,11.36,"""Bronx""","""NY"""
+502,10475,11.4,"""Bronx""","""NY"""
+42,10310,11.413,"""Staten Island""","""NY"""
+124,11433,11.493,"""Jamaica""","""NY"""
+551,07661,11.495,"""River Edge""","""NJ"""
+386,07017,11.520999999999999,"""East Orange""","""NJ"""
+19,11214,11.526,"""Brooklyn""","""NY"""
+275,07108,11.542,"""Newark""","""NJ"""
+21,11229,11.59,"""Brooklyn""","""NY"""
+359,07019,11.671,"""East Orange""","""NJ"""
+424,07028,11.675,"""Glen Ridge""","""NJ"""
+18,11223,11.677,"""Brooklyn""","""NY"""
+25,11234,11.735,"""Brooklyn""","""NY"""
+554,07646,11.751,"""New Milford""","""NJ"""
+90,11436,11.769,"""Jamaica""","""NY"""
+543,10705,11.789000000000001,"""Yonkers""","""NY"""
+526,07407,11.821,"""Elmwood Park""","""NJ"""
+314,11364,11.93,"""Oakland Gardens""","""NY"""
+246,11423,11.970999999999998,"""Hollis""","""NY"""
+497,07013,12.06,"""Clifton""","""NJ"""
+345,07018,12.103,"""East Orange""","""NJ"""
+558,07626,12.112,"""Cresskill""","""NJ"""
+28,10304,12.148,"""Staten Island""","""NY"""
+40,10302,12.225,"""Staten Island""","""NY"""
+140,07112,12.276,"""Newark""","""NJ"""
+498,10464,12.31,"""Bronx""","""NY"""
+98,11405,12.374,"""Jamaica""","""NY"""
+99,11431,12.374,"""Jamaica""","""NY"""
+100,11439,12.374,"""Jamaica""","""NY"""
+101,11499,12.374,"""Jamaica""","""NY"""
+562,07628,12.398,"""Dumont""","""NJ"""
+472,07043,12.412,"""Montclair""","""NJ"""
+544,10704,12.462,"""Yonkers""","""NY"""
+527,10550,12.493,"""Mount Vernon""","""NY"""
+17,10305,12.557,"""Staten Island""","""NY"""
+433,07042,12.578,"""Montclair""","""NJ"""
+387,11363,12.6,"""Little Neck""","""NY"""
+516,07503,12.602,"""Paterson""","""NJ"""
+92,11434,12.639000000000001,"""Jamaica""","""NY"""
+358,07051,12.72,"""Orange""","""NJ"""
+11,11235,12.72,"""Brooklyn""","""NY"""
+521,10558,12.745999999999999,"""Mount Vernon""","""NY"""
+520,10557,12.745999999999999,"""Mount Vernon""","""NY"""
+560,07653,12.794,"""Paramus""","""NJ"""
+123,11412,12.823,"""Saint Albans""","""NY"""
+306,07106,12.823,"""Newark""","""NJ"""
+528,07513,12.860999999999999,"""Paterson""","""NJ"""
+295,11427,12.884,"""Queens Village""","""NY"""
+72,07207,12.895999999999999,"""Elizabeth""","""NJ"""
+538,07504,12.968,"""Paterson""","""NJ"""
+65,07206,12.969000000000001,"""Elizabethport""","""NJ"""
+376,07050,13.013,"""Orange""","""NJ"""
+6,11224,13.020999999999999,"""Brooklyn""","""NY"""
+529,10553,13.120999999999999,"""Mount Vernon""","""NY"""
+569,07627,13.136,"""Demarest""","""NJ"""
+278,07111,13.161,"""Irvington""","""NJ"""
+273,11428,13.175999999999998,"""Queens Village""","""NY"""
+347,11362,13.209000000000001,"""Little Neck""","""NY"""
+522,10803,13.229000000000001,"""Pelham""","""NY"""
+435,11024,13.234000000000002,"""Great Neck""","""NY"""
+535,10551,13.255,"""Mount Vernon""","""NY"""
+566,07652,13.267999999999999,"""Paramus""","""NJ"""
+60,11430,13.363,"""Jamaica""","""NY"""
+572,07649,13.398,"""Oradell""","""NJ"""
+401,11021,13.431,"""Great Neck""","""NY"""
+418,11023,13.444,"""Great Neck""","""NY"""
+534,07544,13.454,"""Paterson""","""NJ"""
+533,07543,13.454,"""Paterson""","""NJ"""
+530,07509,13.454,"""Paterson""","""NJ"""
+531,07510,13.454,"""Paterson""","""NJ"""
+532,07533,13.454,"""Paterson""","""NJ"""
+577,07641,13.546,"""Haworth""","""NJ"""
+119,07205,13.550999999999998,"""Hillside""","""NJ"""
+39,10303,13.564,"""Staten Island""","""NY"""
+555,07410,13.571,"""Fair Lawn""","""NJ"""
+142,11429,13.581,"""Queens Village""","""NY"""
+563,10701,13.599,"""Yonkers""","""NY"""
+419,11022,13.664000000000001,"""Great Neck""","""NY"""
+420,11026,13.664000000000001,"""Great Neck""","""NY"""
+421,11027,13.664000000000001,"""Great Neck""","""NY"""
+561,10702,13.748,"""Yonkers""","""NY"""
+550,07514,13.815,"""Paterson""","""NJ"""
+548,10552,13.819,"""Mount Vernon""","""NY"""
+85,11413,13.921,"""Springfield Gardens""","""NY"""
+537,07501,13.943,"""Paterson""","""NJ"""
+509,07424,13.985999999999999,"""Little Falls""","""NJ"""
+300,11426,14.003,"""Bellerose""","""NY"""
+116,11411,14.045,"""Cambria Heights""","""NY"""
+87,07208,14.061,"""Elizabeth""","""NJ"""
+422,11025,14.165999999999999,"""Great Neck""","""NY"""
+462,07044,14.171,"""Verona""","""NJ"""
+539,07505,14.183,"""Paterson""","""NJ"""
+488,07009,14.185,"""Cedar Grove""","""NJ"""
+517,10805,14.187000000000001,"""New Rochelle""","""NY"""
+385,11020,14.247,"""Great Neck""","""NY"""
+348,11005,14.287,"""Floral Park""","""NY"""
+67,07202,14.360999999999999,"""Elizabeth""","""NJ"""
+580,07624,14.376,"""Closter""","""NJ"""
+320,07079,14.412,"""South Orange""","""NJ"""
+557,10708,14.467,"""Bronxville""","""NY"""
+317,11004,14.488,"""Glen Oaks""","""NY"""
+553,07524,14.489,"""Paterson""","""NJ"""
+579,07620,14.497,"""Alpine""","""NJ"""
+575,10703,14.526,"""Yonkers""","""NY"""
+581,07630,14.575999999999999,"""Emerson""","""NJ"""
+404,07052,14.605,"""West Orange""","""NJ"""
+20,10314,14.838,"""Staten Island""","""NY"""
+549,07522,14.883,"""Paterson""","""NJ"""
+540,10801,14.888,"""New Rochelle""","""NY"""
+294,07040,14.953,"""Maplewood""","""NJ"""
+7,11694,14.963,"""Rockaway Park""","""NY"""
+24,10311,14.995999999999999,"""Staten Island""","""NY"""
+74,11422,15.038,"""Rosedale""","""NY"""
+277,11001,15.075,"""Floral Park""","""NY"""
+3,11697,15.085999999999999,"""Breezy Point""","""NY"""
+542,07502,15.109000000000002,"""Paterson""","""NJ"""
+8,10313,15.136,"""Staten Island""","""NY"""
+352,11042,15.18,"""New Hyde Park""","""NY"""
+552,07538,15.182,"""Haledon""","""NJ"""
+574,07452,15.202,"""Glen Rock""","""NJ"""
+5,10306,15.251,"""Staten Island""","""NY"""
+15,11693,15.254000000000001,"""Far Rockaway""","""NY"""
+13,11690,15.286,"""Far Rockaway""","""NY"""
+14,11695,15.286,"""Far Rockaway""","""NY"""
+519,07511,15.292,"""Totowa""","""NJ"""
+567,07507,15.302999999999999,"""Hawthorne""","""NJ"""
+267,11002,15.357000000000001,"""Floral Park""","""NY"""
+125,11003,15.402999999999999,"""Elmont""","""NY"""
+525,07512,15.434000000000001,"""Totowa""","""NJ"""
+458,07007,15.454,"""Caldwell""","""NJ"""
+118,07083,15.544,"""Union""","""NJ"""
+546,10802,15.567,"""New Rochelle""","""NY"""
+588,07640,15.609000000000002,"""Harrington Park""","""NJ"""
+32,11096,15.661,"""Inwood""","""NY"""
+16,11692,15.668,"""Arverne""","""NY"""
+454,07021,15.705,"""Essex Fells""","""NJ"""
+410,11030,15.732999999999999,"""Manhasset""","""NY"""
+578,10710,15.74,"""Yonkers""","""NY"""
+589,07648,15.758,"""Norwood""","""NJ"""
+585,07676,15.894,"""Township Of Washington""","""NJ"""
+573,07506,15.954,"""Hawthorne""","""NJ"""
+576,10707,15.962,"""Tuckahoe""","""NY"""
+251,07088,16.004,"""Vauxhall""","""NJ"""
+570,10709,16.044,"""Eastchester""","""NY"""
+583,07451,16.125,"""Ridgewood""","""NJ"""
+315,11040,16.136,"""New Hyde Park""","""NY"""
+88,11580,16.180999999999997,"""Valley Stream""","""NY"""
+466,11050,16.202,"""Port Washington""","""NY"""
+79,07204,16.208,"""Roselle Park""","""NJ"""
+291,11099,16.265,"""New Hyde Park""","""NY"""
+288,11041,16.265,"""New Hyde Park""","""NY"""
+289,11043,16.265,"""New Hyde Park""","""NY"""
+290,11044,16.265,"""New Hyde Park""","""NY"""
+565,10804,16.278,"""New Rochelle""","""NY"""
+63,11581,16.287,"""Valley Stream""","""NY"""
+584,07450,16.298,"""Ridgewood""","""NJ"""
+66,07203,16.299,"""Roselle""","""NJ"""
+35,07036,16.322,"""Linden""","""NJ"""
+22,11691,16.406,"""Far Rockaway""","""NY"""
+82,11536,16.427,"""Garden City""","""NY"""
+593,07675,16.438,"""Westwood""","""NJ"""
+439,11051,16.494,"""Port Washington""","""NY"""
+440,11052,16.494,"""Port Washington""","""NY"""
+442,11054,16.494,"""Port Washington""","""NY"""
+443,11055,16.494,"""Port Washington""","""NY"""
+441,11053,16.494,"""Port Washington""","""NY"""
+481,07006,16.548,"""Caldwell""","""NJ"""
+571,07508,16.625999999999998,"""Haledon""","""NJ"""
+587,10706,16.691,"""Hastings On Hudson""","""NY"""
+73,11582,16.717,"""Valley Stream""","""NY"""
+36,11516,16.737000000000002,"""Cedarhurst""","""NY"""
+274,07041,16.737000000000002,"""Millburn""","""NJ"""
+594,07647,16.782,"""Northvale""","""NJ"""
+556,10538,16.934,"""Larchmont""","""NY"""
+595,07642,16.942,"""Hillsdale""","""NJ"""
+93,07033,16.95,"""Kenilworth""","""NJ"""
+128,11010,16.959,"""Franklin Square""","""NY"""
+2,10308,17.006,"""Staten Island""","""NY"""
+592,07423,17.125999999999998,"""Ho Ho Kus""","""NJ"""
+41,11598,17.158,"""Woodmere""","""NY"""
+448,07068,17.339000000000002,"""Roseland""","""NJ"""
+384,11507,17.543,"""Albertson""","""NY"""
+89,11565,17.680999999999997,"""Malverne""","""NY"""
+599,10964,17.712,"""Palisades""","""NY"""
+10,07008,17.789,"""Carteret""","""NJ"""
+590,07432,17.814,"""Midland Park""","""NJ"""
+44,11557,17.829,"""Hewlett""","""NY"""
+559,07474,17.866,"""Wayne""","""NJ"""
+415,11576,17.914,"""Roslyn""","""NY"""
+405,07039,17.95,"""Livingston""","""NJ"""
+600,10976,18.027,"""Sparkill""","""NY"""
+23,11559,18.037,"""Lawrence""","""NY"""
+69,11563,18.047,"""Lynbrook""","""NY"""
+357,11596,18.055999999999997,"""Williston Park""","""NY"""
+596,10522,18.076,"""Dobbs Ferry""","""NY"""
+113,11552,18.229,"""West Hempstead""","""NY"""
+545,07477,18.230999999999998,"""Wayne""","""NJ"""
+308,07078,18.245,"""Short Hills""","""NJ"""
+68,07016,18.262999999999998,"""Cranford""","""NJ"""
+400,11577,18.267,"""Roslyn Heights""","""NY"""
+318,11501,18.282,"""Mineola""","""NY"""
+12,11509,18.285,"""Atlantic Beach""","""NY"""
+1,10312,18.296,"""Staten Island""","""NY"""
+564,07470,18.338,"""Wayne""","""NJ"""
+601,07677,18.383,"""Woodcliff Lake""","""NJ"""
+568,10543,18.402,"""Mamaroneck""","""NY"""
+603,10983,18.445,"""Tappan""","""NY"""
+508,07004,18.45,"""Fairfield""","""NJ"""
+268,11531,18.45,"""Garden City""","""NY"""
+270,11599,18.45,"""Garden City""","""NY"""
+269,11535,18.45,"""Garden City""","""NY"""
+283,11530,18.522000000000002,"""Garden City""","""NY"""
+586,10583,18.555,"""Scarsdale""","""NY"""
+598,07463,18.59,"""Waldwick""","""NJ"""
+597,10502,18.602999999999998,"""Ardsley""","""NY"""
+461,11547,18.61,"""Glenwood Landing""","""NY"""
+591,07481,18.702,"""Wyckoff""","""NJ"""
+470,11579,18.745,"""Sea Cliff""","""NY"""
+122,07081,18.776,"""Springfield""","""NJ"""
+26,07065,18.881,"""Rahway""","""NJ"""
+605,07656,18.919,"""Park Ridge""","""NJ"""
+602,10503,18.934,"""Ardsley On Hudson""","""NY"""
+45,11518,18.976,"""East Rockaway""","""NY"""
+607,10968,19.05,"""Piermont""","""NY"""
+431,11548,19.101,"""Greenvale""","""NY"""
+4,07064,19.252,"""Port Reading""","""NJ"""
+64,07027,19.285999999999998,"""Garwood""","""NJ"""
+80,11570,19.53,"""Rockville Centre""","""NY"""
+9,07001,19.559,"""Avenel""","""NJ"""
+322,11514,19.642,"""Carle Place""","""NY"""
+132,11550,19.677,"""Hempstead""","""NY"""
+608,10962,19.695999999999998,"""Orangeburg""","""NY"""
+143,07902,19.904,"""Summit""","""NJ"""
+31,07066,19.910999999999998,"""Clark""","""NJ"""
+582,10528,19.925,"""Harrison""","""NY"""
+500,07058,19.956,"""Pine Brook""","""NJ"""
+604,07401,19.964000000000002,"""Allendale""","""NJ"""
+606,10533,19.964000000000002,"""Irvington""","""NY"""
+609,,,,
