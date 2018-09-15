@@ -1,0 +1,25 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:             median age   R-squared:                       0.080
+Model:                            OLS   Adj. R-squared:                  0.069
+Method:                 Least Squares   F-statistic:                     7.693
+Date:                Sat, 15 Sep 2018   Prob (F-statistic):            0.00675
+Time:                        09:12:15   Log-Likelihood:                -268.30
+No. Observations:                  91   AIC:                             540.6
+Df Residuals:                      89   BIC:                             545.6
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const         31.4493      0.815     38.589      0.000      29.830      33.069
+distance       0.2552      0.092      2.774      0.007       0.072       0.438
+==============================================================================
+Omnibus:                        0.351   Durbin-Watson:                   1.151
+Prob(Omnibus):                  0.839   Jarque-Bera (JB):                0.065
+Skew:                          -0.019   Prob(JB):                        0.968
+Kurtosis:                       3.126   Cond. No.                         14.9
+==============================================================================
+
+Warnings:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
